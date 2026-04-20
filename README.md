@@ -3,7 +3,7 @@
 This repository contains coursework from CS-305 Software Security at 
 Southern New Hampshire University.
 
-## Projects
+## Project
 
 - **Project Two:** Practices for Secure Software Report — SHA-256 checksum 
 verification and SSL/TLS implementation
